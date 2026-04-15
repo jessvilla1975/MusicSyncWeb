@@ -1,0 +1,4 @@
+spotipy
+ytmusicapi
+rapidfuzz
+flask

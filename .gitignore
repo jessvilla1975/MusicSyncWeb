@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual env
+.venv/
+venv/
+
+# Build artifacts
+build/
+dist/
+*.spec
+
+# Local runtime/cache
+.cache
+.spotify_cache
+*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+
+# Sensitive local auth/cookies/headers
+browser.json
+yt_headers.txt
+oauth.json
+*.env
+.env
+
+# Temporary debug files used during scraping tests
+spotify_embed_page.html
+spotify_playlist_page.html
+spotify_oembed.json
