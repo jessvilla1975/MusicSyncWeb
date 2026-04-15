@@ -65,10 +65,10 @@ Solo cambia la URL/ID de Spotify y el nombre destino de YouTube Music:
   --yt-auth "browser.json"
 ```
 
-## 6) Interfaz web local (mas facil)
+## 6) Interfaz web local 
 
 Ejecuta con doble clic `run_app.bat` o desde terminal:
-
+<img width="1920" height="1214" alt="Image" src="https://github.com/user-attachments/assets/3eb2d058-a243-4155-a63a-d068ee3c68ed" />
 ```powershell
 .\run_app.bat
 ```
